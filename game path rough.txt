@@ -1,0 +1,28 @@
+you find yourself at the middle of a crossroads what direction do you go?:
+  North: Cemetary
+    The closer you get the darker it seems to get. Are you sure you want to keep going?:
+      Yes:
+        You find yourself surrounded by graves and suddenly
+        SPOOKY SCARY SKELETONS
+      No:
+        You turn back and head back to the crossroads
+        Jump Scare
+  South: Town
+    As you get further into town you notice a bakery with a "Grand Opening" across the street. you also hear some music coming from further into the town. Which do you check out?:
+      Bakery:
+        You open the door and walk into a full sheet of tape spanning the entire length. April Fools...
+      Music:
+        The music is fantastic and you have to find out more
+        RICK ROLL
+  East: Plains
+    you see a hulking...something in the distance. Do you keep going towards it?
+      Yes:
+        you are met by https://i.imgur.com/ilkW2B1.jpg
+      No:
+        You turn around wanting nothing to do with whatever it is. your world then fades to black https://i.imgur.com/FVq4weo.jpg
+  West: Forest
+    As you walk through the forest you see a sloth on a tree but a little further you can see your house. Where do you go:
+      Sloth:
+        https://i.imgur.com/rl9qhB1.jpg
+      Home:
+        you sit down in your lazyboy and think... https://i.imgur.com/2HaRNma.jpg
